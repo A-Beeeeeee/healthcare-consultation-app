@@ -15,6 +15,9 @@ A modern web application built with React for managing healthcare consultations 
 Before you begin, ensure you have the following installed:
 - Node.js (v14.0.0 or higher)
 - npm (v6.0.0 or higher)
+  
+## Collaborators
+- [Maneesh1605](https://github.com/Maneesh1605)
 
 ## Installation
 
